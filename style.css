@@ -1,0 +1,15 @@
+body{
+    background-color: skyblue;
+}
+
+.heading{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background-color: orange;
+    transform: rotate(360deg);
+    transition: 1s ease-in;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
